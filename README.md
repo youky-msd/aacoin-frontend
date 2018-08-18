@@ -1,2 +1,0 @@
-# aacoin-frontend
-aacoin-frontend
